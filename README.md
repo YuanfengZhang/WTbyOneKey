@@ -8,7 +8,7 @@ Thanks Daniel Schroeder a lot. Finally I found a correct way to launch Windows T
 # READ AFTER HIS BLOG
 
 
-For users of Windows Terminal Preview and Windows 11, it should be noticed that there are **two "wt"s** in your computer, the bulit-in wt and the preview one. The right one is located in **`%USERPROFILE/AppData/Local/Microsoft/WindowsApps/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe`**, not `C:/ProgramFiles/WindowsApps/Microsoft.WindowsTerminalPreview_$(changing version number)__8wekyb3d8bbwe`
+For users of Windows Terminal Preview and Windows 11, it should be noticed that there are **two "wt"s** in your computer, the bulit-in wt and the preview one. The right one is located in **`%USERPROFILE/AppData/Local/Microsoft/WindowsApps/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe`**, not `C:/ProgramFiles/WindowsApps/Microsoft.WindowsTerminalPreview_$(changing version number)__8wekyb3d8bbwe` or any folder else.
 
 So here I offer the simplified version for wt preview. You can just download the wtp.exe file, put it into Windows Task Scheduler or Startup.
 
